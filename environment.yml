@@ -1,6 +1,6 @@
 dependencies:
   - python=3
-  - pip
+  - pip:
     - scipy
     - numpy
     - scikit-learn
